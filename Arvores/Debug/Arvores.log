@@ -1,0 +1,22 @@
+﻿  arvore.c
+C:\Users\guste\Desktop\coltec\Aeds\Arvores\arvore.c(20,22): warning C4133: 'function': incompatible types - from 'no *' to 'no_t *'
+C:\Users\guste\Desktop\coltec\Aeds\Arvores\arvore.c(21,22): warning C4133: 'function': incompatible types - from 'no *' to 'no_t *'
+C:\Users\guste\Desktop\coltec\Aeds\Arvores\arvore.c(57,52): warning C4133: '=': incompatible types - from 'no *' to 'no_t *'
+C:\Users\guste\Desktop\coltec\Aeds\Arvores\arvore.c(58,32): warning C4133: '=': incompatible types - from 'no *' to 'no_t *'
+C:\Users\guste\Desktop\coltec\Aeds\Arvores\arvore.c(61,43): warning C4133: '=': incompatible types - from 'no_t *' to 'no *'
+C:\Users\guste\Desktop\coltec\Aeds\Arvores\arvore.c(62,25): warning C4133: '=': incompatible types - from 'no_t *' to 'no *'
+C:\Users\guste\Desktop\coltec\Aeds\Arvores\arvore.c(69,21): warning C4133: '=': incompatible types - from 'no *' to 'no_t *'
+C:\Users\guste\Desktop\coltec\Aeds\Arvores\arvore.c(74,17): warning C4133: '=': incompatible types - from 'no *' to 'no_t *'
+C:\Users\guste\Desktop\coltec\Aeds\Arvores\arvore.c(77,21): warning C4133: '=': incompatible types - from 'no *' to 'no_t *'
+C:\Users\guste\Desktop\coltec\Aeds\Arvores\arvore.c(96,38): warning C4133: '==': incompatible types - from 'no_t *' to 'no *'
+C:\Users\guste\Desktop\coltec\Aeds\Arvores\arvore.c(96,67): warning C4133: '=': incompatible types - from 'no_t *' to 'no *'
+C:\Users\guste\Desktop\coltec\Aeds\Arvores\arvore.c(97,49): warning C4133: '=': incompatible types - from 'no_t *' to 'no *'
+C:\Users\guste\Desktop\coltec\Aeds\Arvores\arvore.c(102,52): warning C4133: '=': incompatible types - from 'no *' to 'no_t *'
+C:\Users\guste\Desktop\coltec\Aeds\Arvores\arvore.c(103,32): warning C4133: '=': incompatible types - from 'no *' to 'no_t *'
+C:\Users\guste\Desktop\coltec\Aeds\Arvores\arvore.c(114,52): warning C4133: '=': incompatible types - from 'no *' to 'no_t *'
+C:\Users\guste\Desktop\coltec\Aeds\Arvores\arvore.c(115,32): warning C4133: '=': incompatible types - from 'no *' to 'no_t *'
+C:\Users\guste\Desktop\coltec\Aeds\Arvores\arvore.c(122,50): warning C4133: 'function': incompatible types - from 'no **' to 'Arvore *'
+C:\Users\guste\Desktop\coltec\Aeds\Arvores\arvore.c(123,50): warning C4133: 'function': incompatible types - from 'no **' to 'Arvore *'
+  main.c
+  Generating Code...
+  Arvores.vcxproj -> C:\Users\guste\Desktop\coltec\Aeds\Arvores\Debug\Arvores.exe
