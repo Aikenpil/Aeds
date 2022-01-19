@@ -1,2 +1,1 @@
-# Aeds
-# tudo de aeds 
+# Aeds 
