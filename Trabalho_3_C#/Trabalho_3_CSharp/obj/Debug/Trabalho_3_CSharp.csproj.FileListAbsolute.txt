@@ -1,0 +1,7 @@
+C:\Users\guste\Desktop\coltec\Aeds\Trabalho_3_C#\Trabalho_3_CSharp\bin\Debug\Trabalho_3_CSharp.exe.config
+C:\Users\guste\Desktop\coltec\Aeds\Trabalho_3_C#\Trabalho_3_CSharp\bin\Debug\Trabalho_3_CSharp.exe
+C:\Users\guste\Desktop\coltec\Aeds\Trabalho_3_C#\Trabalho_3_CSharp\bin\Debug\Trabalho_3_CSharp.pdb
+C:\Users\guste\Desktop\coltec\Aeds\Trabalho_3_C#\Trabalho_3_CSharp\obj\Debug\Trabalho_3_CSharp.csproj.AssemblyReference.cache
+C:\Users\guste\Desktop\coltec\Aeds\Trabalho_3_C#\Trabalho_3_CSharp\obj\Debug\Trabalho_3_CSharp.csproj.CoreCompileInputs.cache
+C:\Users\guste\Desktop\coltec\Aeds\Trabalho_3_C#\Trabalho_3_CSharp\obj\Debug\Trabalho_3_CSharp.exe
+C:\Users\guste\Desktop\coltec\Aeds\Trabalho_3_C#\Trabalho_3_CSharp\obj\Debug\Trabalho_3_CSharp.pdb
