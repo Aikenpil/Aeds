@@ -1,4 +1,0 @@
-C:\Users\Gustavo\Desktop\Project1\x64\Debug\Project1.exe
-C:\Users\Gustavo\Desktop\ListaEncadeada\x64\Debug\Project1.exe
-C:\Users\Gustavo\Desktop\coltec\Aeds\ListaEncadeada\x64\Debug\Project1.exe
-C:\Users\guste\Desktop\coltec\Aeds\Lista Encadeada\x64\Debug\Project1.exe

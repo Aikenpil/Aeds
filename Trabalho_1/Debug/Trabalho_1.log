@@ -1,3 +1,0 @@
-﻿  main.c
-C:\Users\guste\Desktop\coltec\Aeds\Trabalho_1\main.c(26,1): warning C4047: 'initializing': 'int' differs in levels of indirection from 'void *'
-  Trabalho_1.vcxproj -> C:\Users\guste\Desktop\coltec\Aeds\Trabalho_1\Debug\Trabalho_1.exe
