@@ -25,51 +25,64 @@ int main(int argc, char** argv) {
 	Arvore* arvore = cria_arvore();
 	int opcao = NULL;
 	char lixo;
+	char command[6] =
+		#ifndef _WIN32
+			"clear"
+		#else
+			"cls"
+		#endif
+	;
+
 
 	do {
 
 		setbuf(stdin, NULL);
-
+		system(command);
 		imprimemenu();
 		(void)scanf("%u%c", &opcao, &lixo);
 		
 		switch (opcao) {
 		case 1:
-			system("cls");
+			system(command);
 			Consulta_paciente(arvore);
 			(void)printf("\n\n\n");
-			system("pause");
+			(void)printf("Aperte uma tecla para prosseguir . . .");
+			(void)getchar();
 			break;
 
 		case 2:
-			system("cls");
+			system(command);
 			Consulta_data(arvore);
 			(void)printf("\n\n\n");
-			system("pause");
+			(void)printf("Aperte uma tecla para prosseguir . . .");
+			(void)getchar();
 			break;
 
 		case 3:
-			system("cls");
+			system(command);
 			Inserir_consulta(arvore);
 			(void)printf("\n\n\n");
-			system("pause");
+			(void)printf("Aperte uma tecla para prosseguir . . .");
+			(void)getchar();
 			break;
 
 		case 4:
-			system("cls");
+			system(command);
 			Remover_prontuario(arvore);
 			(void)printf("\n\n\n");
-			system("pause");
+			(void)printf("Aperte uma tecla para prosseguir . . .");
+			(void)getchar();
 			break;
 
 		case 0:
 			break;
 
 		default:
-			system("cls");
+			system(command);
 			(void)printf("Digite uma opcao valida\n");
 			(void)printf("\n\n\n");
-			system("pause");
+			(void)printf("Aperte uma tecla para prosseguir . . .");
+			(void)getchar();
 			break;
 		}
 	} while (opcao != 0);
